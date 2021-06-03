@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal Presbyterian, and the new conformist; with a list of the names of the several ministers, that have taken the oath; and a true copy thereof. Also, the farewell-advice of Mr. Chester, and divers others; and four meditations, for all true believers.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04254</idno><idno type="EEBO-CITATION">52528852</idno>
+  <idno type="VID">178833</idno>
+  <idno type="EEBO-PROQUEST">2240859591</idno>
+  
+            <idno type="STC">Wing L3358</idno>
+            <idno type="STC">ESTC R180259</idno>
+            <idno type="OCLC">52528852</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178833)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2772:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal Presbyterian, and the new conformist; with a list of the names of the several ministers, that have taken the oath; and a true copy thereof. Also, the farewell-advice of Mr. Chester, and divers others; and four meditations, for all true believers.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Egerton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 5 misnumbered "6".</note>
+                  <note>Imperfect: creased, stained, print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Doctrines --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Clergy --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178833:1"/>
+            <p>THE Loyal Presbyterian, AND THE New Conformist; With a <hi>LIST</hi> of the Names of the several Ministers, that have taken the <hi>OATH;</hi> And a true Copy thereof.</p>
+            <p>Also, the <hi>Farewell-Advice</hi> of Mr. <hi>Chester,</hi> and divers others; And four Medi<g ref="char:EOLhyphen"/>tations, for all true <hi>Belie<g ref="char:EOLhyphen"/>vers.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Egerton,</hi> 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:178833:2"/>
+            <pb n="1" facs="tcp:178833:2"/>
+            <head>
+               <hi>The Loyal Presbyterian;</hi> AND <hi>The New Conformist.</hi>
+            </head>
+            <p>OUt of the Lion of the Tribe of <hi>Judah,</hi> comes better and sweeter honey, than out of <hi>Sampsons</hi> Lion; that is the sweetest honey which we suck out of Christs Hive: And the mutual intercourse of Love and Affection be<g ref="char:EOLhyphen"/>tween Christ and his Church, should so highly endear the Members thereof to Unity and Con<g ref="char:EOLhyphen"/>cord, that above all others the Ministers should cement and knit fast that lovely Knot, and una<g ref="char:EOLhyphen"/>nimously assent and conform to the Discipline of the Church, according to the late Act of <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> upon publishing whereof, divers not before satisfied in their Judgments touching the
+<pb n="2" facs="tcp:178833:3"/> lawfulness thereof, upon secondary Thoughts, and m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture Deliberation, weighing the particu<g ref="char:EOLhyphen"/>lar an<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> distinct Clauses therein contained, resol<g ref="char:EOLhyphen"/>ved to <hi>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quiese</hi> therein, and to take and <hi>subscribe</hi> the following Oath, according to the Tenor of the Act, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>
+                           <hi>I A. B.</hi> do Swear, That it is not lawful upon any pre<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ence whatso<g ref="char:EOLhyphen"/>ever, to take Arms against the King; And that I do abhor that Traiter<g ref="char:EOLhyphen"/>ous Position of taking Arms by His Authority against His Person, or against those that are Commissionated by Him, in pursuance of such Commis<g ref="char:EOLhyphen"/>sions; And that I will not at any time endeavour any Alteration of Govern<g ref="char:EOLhyphen"/>ment, either in Church or State.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Names of those Ministers which <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubscribed, are as fol<g ref="char:EOLhyphen"/>loweth:
+<list>
+                  <pb n="3" facs="tcp:178833:3"/>
+                  <item>Mr. <hi>Bates,</hi>
+                  </item>
+                  <item>Mr. <hi>Salmon,</hi>
+                  </item>
+                  <item>Mr. <hi>Archer,</hi>
+                  </item>
+                  <item>Mr. <hi>Perkins,</hi>
+                  </item>
+                  <item>Mr. <hi>Mayo,</hi>
+                  </item>
+                  <item>Mr. <hi>Clark,</hi>
+                  </item>
+                  <item>Mr. <hi>Sheffield,</hi>
+                  </item>
+                  <item>Mr. <hi>Pool,</hi>
+                  </item>
+                  <item>Mr. <hi>Rood,</hi>
+                  </item>
+                  <item>Mr. <hi>Brooks,</hi>
+                  </item>
+                  <item>Mr. <hi>Reles,</hi>
+                  </item>
+                  <item>Mr. <hi>Overton,</hi>
+                  </item>
+                  <item>Mr. <hi>Vincent,</hi>
+                  </item>
+                  <item>Mr. <hi>Church,</hi>
+                  </item>
+                  <item>Mr. <hi>Fawly,</hi>
+                  </item>
+                  <item>Mr. <hi>Stanliff,</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Cooper,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>As touching those that refused to come in and subscribe, they are ex<g ref="char:EOLhyphen"/>empted from the benefit of the Act; And some upon their depar<g ref="char:EOLhyphen"/>ture, exhorted their Congregati<g ref="char:EOLhyphen"/>ons to <hi>Peace</hi> and <hi>Unity;</hi> amongst the rest, <hi>Mr. Chester</hi> declared, <hi>That the onely way to praise and glorifie GOD, was, to pray for the Kings most excel<g ref="char:EOLhyphen"/>lent Majesty, and that the LORD
+<pb n="4" facs="tcp:178833:4"/> would soon turn from his wrath, if men were turned from their wicked<g ref="char:EOLhyphen"/>nesses:</hi> And <hi>Mr. Dyer</hi> his desire was, <hi>That all People would often meditate and think on the four last Things,</hi> Death which is most cer<g ref="char:EOLhyphen"/>tain, Judgment w<seg rend="sup">ch</seg> is most strickt, Hell which is most doubtful, Hea<g ref="char:EOLhyphen"/>ven which is most delightful: As first, <hi>To meditate upon Death which is most certain,</hi> he hath appointed unto men once to die, <hi>Heb.</hi> 9.27. <hi>Out of the Dust was man formed, and into the Dust shall man be turned. When you come into the World, you do but live to die again; When you go out of the World, you do but die to live a<g ref="char:EOLhyphen"/>gain; He that lives well, cannot die ill; he that is assured of a life that hath no end, cares not how soon this life is at an end; but he that lives without fear,
+<pb n="6" facs="tcp:178833:4"/> shall die without hope; he that hath no grace in his life, shall haue no true peace in his death.</hi> 2. Meditate upon Judgment which is most strickt, <hi>we must all appear before the Judgment Seat of Christ,</hi> 2 Cor. 5.10. <hi>They who will not come before his Mercy-Seat, shall be forced to come before his Judgment-seat; they who will not hear his word, shall feel his sword; they who are graceless in this day, will be speechless in that day.</hi> 3. Meditate upon <hi>Hell</hi> which is most doleful; <hi>Heaven is a place where all is joyful, and Hell is a place where all is dole<g ref="char:EOLhyphen"/>ful; in the former, there's nothing but happiness, and in the latter theres no<g ref="char:EOLhyphen"/>thing but heaviness.</hi> 4. Meditate on <hi>Heaven</hi> which is most joyful, <hi>It is a place where all Joy is enjoyed: One days joy in Heaven is worth ten thou<g ref="char:EOLhyphen"/>sand
+<pb n="6" facs="tcp:178833:5"/> Worlds. The Vessels of grace shall swim in the Ocean of glory; here all the Earth is not enough for one man, but there one Heaven is enough for all men. A Believer should see with an Eye that is purified, what he shall shortly see with an Eye that is glorified; We may talk of the great<g ref="char:EOLhyphen"/>ness of our Crowns, but we shall never know the weight of our Crowns, till they be set on our Heads.</hi> I shall wind up all with that saying of <hi>Ignatius, They who adhere to them who ad<g ref="char:EOLhyphen"/>heres not to Truth, shall never inhe<g ref="char:EOLhyphen"/>rit the Kingdom of GOD.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
